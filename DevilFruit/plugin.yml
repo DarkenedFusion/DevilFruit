@@ -1,0 +1,6 @@
+name: DevilFruit
+author: DarkenedFusion
+version: 1.0.0
+main: io.github.darkenedfusion.DevilFruit
+commands:
+  grant:
